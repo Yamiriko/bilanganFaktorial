@@ -1,0 +1,14 @@
+{
+  "name": "bilanganfaktorial",
+  "version": "1.0.0",
+  "description": "Fungsi bilangan faktorial dengan inputtan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Riko Kurniawan Putra, S.Kom, M.Kom",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
